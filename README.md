@@ -30,5 +30,4 @@
 [Практика_к_занятию_11 empty.ipynb](https://github.com/piton1/DA/blob/Lesson_11/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8E_11%20empty.ipynb)
 
 Пример решения задачи по теории вероятности 
-[Пример решения задачи по теории вероятности.ipynb]
-(https://github.com/piton1/DA/tree/Lesson_11#:~:text=%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8.ipynb)
+[Пример решения задачи по теории вероятности.ipynb](https://github.com/piton1/DA/tree/Lesson_11#:~:text=%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8.ipynb)
